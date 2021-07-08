@@ -2,7 +2,7 @@
 
 /**
 * --------------------------------------------------------------------------
-* Les differentes types de dossier
+* Les différents types de dossier
 * --------------------------------------------------------------------------
 **/
 $dossiers = [
@@ -56,7 +56,7 @@ echo 'Génération du projet terminé'."\n";
 
 /**
 * --------------------------------------------------------------------------
-* Les differentes fonctions pour les differents types de fichier et dossier
+* Les différentes fonctions pour les différents types de fichier et dossier
 * --------------------------------------------------------------------------
 **/
 
