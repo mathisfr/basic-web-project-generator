@@ -1,4 +1,4 @@
-# basic-web-project-generator
+# Basic Web Project Generator
 Avec ce script PHP vous pouvez générer un projet web basique.
 
 ## Comment ça fonctionne ?
