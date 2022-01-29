@@ -31,7 +31,7 @@ foreach($dossiers as $dossier){
     if(!file_exists($dossier)){
         if(mkdir($dossier)){
             $i++;
-            echo '['.$i.'] dossier(s) sur ['.$nbr_dossiers.'] de cré(ent)'."\n";
+            echo '['.$i.'] dossier(s) sur ['.$nbr_dossiers.'] de créé(s)'."\n";
         }
     }else{
         echo 'Le dossier: '.$dossier.' existe déjà.'."\n";
